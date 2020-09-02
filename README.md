@@ -1,4 +1,4 @@
-# Monochromy
+# IP Revealer
 
 IP Revealer tells you the IP address of a website that you want to know.
 
