@@ -17,3 +17,5 @@ python ip.py
 ```
 4) Put the URL of the website
 5) The script will get you the IP address of the website!
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/ip-revealer)](https://github.com/kevinadhiguna)
